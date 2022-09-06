@@ -1,2 +1,4 @@
 # DiscordGames-Loger
-Soon
+**Garrys-mod discord log**
+**CS-GO discord log**
+**and 99 Others enjoy**
